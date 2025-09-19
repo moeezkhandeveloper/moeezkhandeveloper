@@ -71,5 +71,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabirbepari&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
 <br><br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sabirbepari&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sabirbepari?style=for-the-badge&logo=github&color=ffca28">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=moeezkhandeveloper&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sabirbepari?style=for-the-badge&logo=github&color=ffca28">
 </p>
