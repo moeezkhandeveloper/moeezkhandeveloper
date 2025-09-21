@@ -38,7 +38,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/moeezkhan80" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:moeezkhan.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/moeezkhan.dev@gmail.com-white?style=for-the-badge&logo=gmail" /></a>
-<a href="https://linktr.ee/sabirbepari" target="_blank"> <img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /> </a>
+<a href="https://linktr.ee/moeezkhandev" target="_blank"> <img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" /> </a>
 <a href="https://leetcode.com/moeezkhandeveloper" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
