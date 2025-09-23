@@ -57,14 +57,14 @@
       <img align="left" width=390 src="https://github-readme-streak-stats-amber-two.vercel.app?user=sabirbepari&count_private=true&theme=react&dates=EBEBEB6D&&border_radius=25&exclude_days=Sun%2CSat&border=AC7BF9&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&background=26272D&stroke=78ECFD&excludeDaysLabel=26272D&include_all_commits=true" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats-fernando-lopezs-projects-3f43787d.vercel.app/api?username=sabirbepari&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
+      <img align="right" width=390 src="https://github-readme-stats-fernando-lopezs-projects-3f43787d.vercel.app/api?username=moeezkhandeveloper&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
     </a>
   </div>
  </p>
  
 ![moeezkhandeveloper github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=moeezkhandeveloper&count_private=true)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabirbepari&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moeezkhandeveloper&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
 <br><br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=moeezkhandeveloper&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sabirbepari?style=for-the-badge&logo=github&color=ffca28">
